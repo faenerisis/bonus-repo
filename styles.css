@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px; /* Adjust the value to control the amount of space */
+    
+}
+
+th, td {
+    padding: 5px; /* Adjust the value to control the amount of space */
+    text-align: center; /* Optional: Center the content within cells */
+    width: 20%;
+}
+
+th {
+    width: 100px; /* Adjust the width of th elements */
+    
+}
+
+td {
+    background-color: red;
+    color: white;
+}
